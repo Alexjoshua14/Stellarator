@@ -1,6 +1,3 @@
-import ProjectTile from '@/components/projectTile/ProjectTile'
-import { Tile1, Tile2, Tile3 } from '@/components/projectTile/Tiles'
-import Image from 'next/image'
 import Link from 'next/link'
 
 const pages = [
